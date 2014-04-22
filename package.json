@@ -1,0 +1,34 @@
+{
+  "name": "github-label-copy",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-rest-client": "0.8.x",
+    "lodash": "2.4.x",
+    "cli": "0.4.x",
+    "rsvp": "3.0.x"
+  },
+  "devDependencies": {
+	"gulp": "3.6.x",
+    "browserify": "3.44.x"
+  },
+  "description": "github-label-copy =================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jhare/github-label-copy"
+  },
+  "keywords": [
+    "github",
+    "label",
+    "issues"
+  ],
+  "author": "Joe Hare <joehare.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhare/github-label-copy/issues"
+  },
+  "homepage": "https://github.com/jhare/github-label-copy"
+}
